@@ -7,8 +7,8 @@
 <a href="https://www.hendriktreuner.com
 " target="Spotify">Website</a>
 
-<a href="https://www.open.spotify.com/user/6uec1dydqeit5gepkr50pg18m?si=3ShUKgfxTEqCy4y5W6S5gQ&utm_source=whatsapp
+<a href="https://open.spotify.com/user/6uec1dydqeit5gepkr50pg18m?si=3ShUKgfxTEqCy4y5W6S5gQ&utm_source=whatsapp
 " target="Spotify">Spotify</a>
 
-<a href="https://www.youtube.com/hendrikreuner
+<a href="https://youtube.com/hendrikreuner
 " target="Spotify">YouTube</a>
