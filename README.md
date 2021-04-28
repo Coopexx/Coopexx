@@ -10,5 +10,5 @@
 <a href="https://open.spotify.com/user/6uec1dydqeit5gepkr50pg18m?si=3ShUKgfxTEqCy4y5W6S5gQ&utm_source=whatsapp
 " target="Spotify">Spotify</a>
 
-<a href="https://youtube.com/hendrikreuner
+<a href="https://www.youtube.com/channel/UCMUSMp2QcqGqKVNKgVpaVvA
 " target="Spotify">YouTube</a>
