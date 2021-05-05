@@ -1,6 +1,6 @@
-### I'm a Web Developer from Germany, currently living in Berlin, Germany.
+### I'm a MERN Web Developer from Germany, currently living in Berlin, Germany.
 
-#javascript #php #sql #css
+#JavaScript #MongoDB #ExpressJS #ReactJS #NodeJS
 
 ##Everything interesting about me
 
