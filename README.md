@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center; justify-content: center">
+<div align="center">
   <div>
     <p>Hello, I am <a href="https://github.com/Coopexx/">Coopexx</a></p>  
     <br>
