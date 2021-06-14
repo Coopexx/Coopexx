@@ -9,6 +9,6 @@
     <a>#JavaScript #ReactJS #CSS #SASS #HTML</p>  
   </div>
   <div align="center">
-    <img src="https://github.com/Coopexx/Coopexx/blob/master/picture.png">
+    <img src="https://github.com/Coopexx/Coopexx/blob/main/image.png">
   </div>
 </div>
