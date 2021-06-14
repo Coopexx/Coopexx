@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center; align-items: center">
+<div align="left">
   <div>
     <p>Hello, I am <a href="https://github.com/Coopexx/">Coopexx</a></p>  
     <br>
@@ -8,7 +8,7 @@
     <br>
     <a>#JavaScript #ReactJS #CSS #SASS #HTML</p>  
   </div>
-  <div>
+  <div align="right">
     <img src="https://github.com/Coopexx/Coopexx/blob/main/image.png">
   </div>
 </div>
