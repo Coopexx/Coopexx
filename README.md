@@ -14,4 +14,4 @@ I speak 3 languages:
 - English (Fluent)
 - Japanese (Basic)
 
-📍 Berlin, Germany   
+<p style="text-align: center">📍 Berlin, Germany<p>   
