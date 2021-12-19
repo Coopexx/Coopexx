@@ -1,6 +1,6 @@
 <img src="https://github.com/Coopexx/Coopexx/blob/main/banner.png">
 
-Hello, my name is Hendrik. I am a self-taught junior front-end developer.
+Hello, my name is Hendrik. I am a **self-taught** junior front-end developer.
 
 Currently, I can proudly say that I am able to comfortably work with:
 - CSS
@@ -12,6 +12,4 @@ Currently, I can proudly say that I am able to comfortably work with:
 I speak 3 languages:
 - German (Native)
 - English (Fluent)
-- Japanese (Basic)
-
-<p style="text-align: center">📍 Berlin, Germany<p>   
+- Japanese (Basic) 
