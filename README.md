@@ -4,11 +4,11 @@
 
 **Currently, I can proudly say that I am able to comfortably work with:**
 <div align="center">
-**CSS**  |  **SASS**  |  **JavaScript**  |  **ReactJS**  | **HTML**
+CSS  |  SASS  |  JavaScript  |  ReactJS  | HTML
 </div>
 
 **I speak 3 languages:**
 <div align="center">
-**German (Native)**  |  **English (Fluent)**  |  **Japanese (Basic)**
+German (Native)  |  English (Fluent)  |  Japanese (Basic)
 </div>
 
