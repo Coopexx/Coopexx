@@ -11,4 +11,5 @@ CSS | SASS | JavaScript | ReactJS |HTML
 **I speak 3 languages:**
 
 | German  | English | Japanese |
+| ------------- | ------------- | ------------- |
 | (Native)  | (Fluent)  | (Basic) |
