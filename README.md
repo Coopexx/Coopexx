@@ -11,7 +11,7 @@ CSS | SASS | JavaScript | ReactJS |HTML
 **I speak 3 languages:**
 
 <div align="center">
-German (Native) | English (Fluent) | Japanese (Basic)
+German| English| Japanese
 </div>
 <div align="center">
 (Native) | (Fluent) | (Basic)
