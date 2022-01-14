@@ -10,10 +10,5 @@ CSS | SASS | JavaScript | ReactJS |HTML
 
 **I speak 3 languages:**
 
-<div align="center">
-German| English| Japanese
-</div>
-<div align="center">
-(Native) | (Fluent) | (Basic)
-</div>
-
+| German  | English | Japanese |
+| (Native)  | (Fluent)  | (Basic) |
