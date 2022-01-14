@@ -13,9 +13,11 @@ Currently, I can proudly say that I am able to comfortably work with
 | CSS | SASS | JavaScript | ReactJS | HTML |
 | ------------- | ------------- | ------------- |------------- | ------------- |
 
+<br/>
+<br/>
+
 **I speak 3 languages:**
-<br/>
-<br/>
+
 
 | German  | English | Japanese |
 | ------------- | ------------- | ------------- |
