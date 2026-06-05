@@ -1,3 +1,3 @@
 <div align="center">
-I create stuff as a hobby. Coding is fun. Most of the time.
+Hobby coder learning in public. Building small things, breaking big ones, and slowly figuring it out.
 </div>
